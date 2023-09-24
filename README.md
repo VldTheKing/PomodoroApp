@@ -17,11 +17,10 @@ Tkinter (for the graphical user interface)
 # Usage:
 
 Clone this repository to your local machine.
-'''git clone https://github.com/yourusername/PomodoroApp.git'''
+```git clone https://github.com/yourusername/PomodoroApp.git```
+
 Navigate to the project directory.
-
-'''cd PomodoroApp'''
-
+```cd PomodoroApp```
 Run the Pomodoro Timer App.
 
 # Contributing:
