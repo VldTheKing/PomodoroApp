@@ -13,16 +13,15 @@ Break Timer: After completing a Pomodoro session, it automatically starts a brea
 
 Python 3.x
 Tkinter (for the graphical user interface)
-Usage:
+
+# Usage:
 
 Clone this repository to your local machine.
-bash
-Copy code
-git clone https://github.com/yourusername/PomodoroApp.git
+'''git clone https://github.com/yourusername/PomodoroApp.git'''
 Navigate to the project directory.
-bash
-Copy code
-cd PomodoroApp
+
+'''cd PomodoroApp'''
+
 Run the Pomodoro Timer App.
 
 # Contributing:
@@ -35,4 +34,4 @@ Vlad Chiorescu
 
 # Preview:
 
-[Include a screenshot or GIF demonstrating the app in action]
+
