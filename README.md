@@ -19,7 +19,7 @@ Usage:
 
 Clone this repository to your local machine.
 
-```git clone https://github.com/yourusername/PomodoroApp.git```
+```git clone https://github.com/VldTheKing/PomodoroApp.git```
 
 Navigate to the project directory.
 
