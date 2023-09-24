@@ -11,7 +11,7 @@ Break Timer: After completing a Pomodoro session, it automatically starts a brea
 
 Dependencies:
 
-Python 3.x
+Python 3.11
 
 Tkinter (for the graphical user interface)
 
